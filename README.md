@@ -2,7 +2,7 @@
 
 Learn system design by living through it. You're a new engineer at a fictional marketplace, and over ten interactive incidents you make the call, see the consequences, and get debriefed. Each incident is modeled on a real public postmortem (GitHub, AWS, Facebook, GitLab, Cloudflare, Fastly, Slack, Discord and others).
 
-**Live site:** https://clarkngo.github.io/system-design/
+**Live site:** https://clarkngo.github.io/system-design-field-training/
 
 ## Format
 
